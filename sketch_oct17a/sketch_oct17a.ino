@@ -24,7 +24,7 @@ void loop() {
 
   if (estadoBotao1 == LOW) { // Verifica se o botão foi pressionado
     Serial.println("botão1");
-    meuServo.write(30);    // Gira o servo para 90 graus
+    meuServo.write(80);    // Gira o servo para 90 graus
   }
   if (estadoBotao2 == LOW) { // Verifica se o botão foi pressionado
     Serial.println("botão2");
