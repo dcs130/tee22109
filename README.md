@@ -10,3 +10,4 @@ Pesquisa referente à próteses de perna ativas (motores e sensores).
 - https://www.exiii-hackberry.com/ (site de um projeto de prótese de mão)
 - https://github.com/mission-arm/HACKberry/tree/master (github da prótese de mão)
 - https://hackaday.io/project/51025-hackberry-feedback-system (projeto Hackberry Feedback System)
+- https://docs.arduino.cc/libraries/servo/ (biblioteca Servo.h)
