@@ -1,11 +1,13 @@
-# Prótese de Mão
+# Pesquisa para desenvolvimento de próteses
+
+## Prótese de Mão
 
 Código arduino para servo motor e sensor de pressão FSR 402, que atuarão na prótese de mão, com objetivo de movimentar as articulações.
 
-# Prótese de Perna
+## Prótese de Perna
 Pesquisa referente à próteses de perna ativas (motores e sensores).
 
-# Referências
+## Referências
 - https://guiarobotica.com/controlar-velocidade-servo-motor-arduino/
 - https://www.exiii-hackberry.com/ (site de um projeto de prótese de mão)
 - https://github.com/mission-arm/HACKberry/tree/master (github da prótese de mão)
