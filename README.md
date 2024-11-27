@@ -20,6 +20,7 @@ ________________________________________________________________________________
 **Delmar Carvalho de Souza** \
 **Instituto Federal de Santa Catarina (IFSC)**
 
-Apresentação formato odp (slide): https://drive.google.com/file/d/1lhG8gO2ao3xw-PeNB2Y94MxZew6sRnoJ/view?usp=drive_link \
-Apresentação formato PDF: https://drive.google.com/file/d/16Gskh6OD7l6ZGVL1UlTBFCSI43Q0Pq23/view?usp=drive_link
+Apresentação formato PDF: https://drive.google.com/file/d/16Gskh6OD7l6ZGVL1UlTBFCSI43Q0Pq23/view?usp=drive_link \
+Este material também está disponível para baixar no formato ODP (slides) neste repositório.
+
 
