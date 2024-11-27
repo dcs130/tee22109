@@ -22,5 +22,7 @@ ________________________________________________________________________________
 
 Apresentação formato PDF: https://drive.google.com/file/d/16Gskh6OD7l6ZGVL1UlTBFCSI43Q0Pq23/view?usp=drive_link \
 Este material também está disponível para baixar no formato ODP (slides) neste repositório.
+__________________________________________________________________________________________________________________________________
 
-
+# Artigo: Desenvlvimento de próteses e órteses em estágios supervionados
+**Artigo em edição. Material disponível em https://docs.google.com/document/d/1QgliRXF6Kkxmlk11-dAVvMURWvRTrv65pJqIRc4U1EM/edit?usp=drive_link
