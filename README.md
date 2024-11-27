@@ -1,5 +1,5 @@
 # Semana acadêmica da Engenharia Eletrônica Tecnologias Assistivas: Próteses e órteses
-**Delmar Carvalho de Souza** \**
+**Delmar Carvalho de Souza** \
 **Instituto Federal de Santa Catarina (IFSC)**
 _________________________________________________________________________________________________________________________________
 
