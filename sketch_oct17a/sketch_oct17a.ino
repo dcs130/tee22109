@@ -18,17 +18,18 @@ void setup() {
 void loop() {
   estadoBotao1 = digitalRead(botaoPin1); // Lê o estado do botão
   estadoBotao2 = digitalRead(botaoPin2); // Lê o estado do botão
-  forcereading = analogRead(A0);
+  forcereading = analogRead(A0); // sensor de força
 
-  Serial.println(forcereading); 
+//  Serial.println(forcereading); 
+  Serial.println(meuServo.read());
 
   if (estadoBotao1 == LOW) { // Verifica se o botão foi pressionado
     Serial.println("botão1");
-    meuServo.write(30);    // Gira o servo para 90 graus
+    meuServo.write(30);    // Gira o servo para 30 graus
   }
   if (estadoBotao2 == LOW) { // Verifica se o botão foi pressionado
     Serial.println("botão2");
-    meuServo.write(0);    // Gira o servo para 90 graus
-    delay(1000);           // Aguarda 2 segundos
+    meuServo.write(0);    
+    delay(1000);          
   }
 }
